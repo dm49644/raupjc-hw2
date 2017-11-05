@@ -1,13 +1,10 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Task_2;
-using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
+using Task_2;
 using _3.zadatak;
 
-namespace Task_2.Tests
+namespace Task_2Tests
 {
     [TestClass()]
     public class TodoRepositoryTests
